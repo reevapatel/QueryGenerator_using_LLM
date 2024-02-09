@@ -4,8 +4,13 @@ This project is a comprehensive Language Model (LLM) initiative utilizing Google
 
 ### It is an LLM based question and answer system that will use following:
 Google Palm LLM
+
 Hugging face embeddings
-Streamlit for UI
+
 Langchain framework
+
 Chromadb as a vector store
+
 Few shot learning
+
+Streamlit for UI
